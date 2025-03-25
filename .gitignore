@@ -1,0 +1,3 @@
+# Custom actions (if using)
+/actions/__pycache__/
+/actions/.env
